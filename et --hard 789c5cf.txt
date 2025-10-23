@@ -1,0 +1,18 @@
+[33m789c5cf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m el posible dinal 1
+[33m7492999[m Respaldo para probar el bot y ver si soluciona
+[33m0b8839e[m Backup completo del proyecto antes de entrenar modelo
+[33m61a8541[m Respaldo antes de probar FAISS
+[33m8c8b7d5[m Subiendo proyecto Rasa completo desde Codespaces
+[33ma8a1604[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31mupstream/HEAD[m[33m)[m Update README.md
+[33mcf946be[m Merge pull request #9 from RasaHQ/update-for-3.11
+[33m69f224a[m[33m ([m[1;31mupstream/update-for-3.11[m[33m)[m update instructions to remove OpenAI requirement
+[33mc778b5d[m Update README upon 3.10 release (#4)
+[33mdb2876c[m Merge pull request #2 from RasaHQ/trammell-patch-1
+[33mb20482e[m Update README.md
+[33m47b1a26[m .env placeholder
+[33m38087f9[m Update README.md
+[33m5188460[m Update README.md
+[33m00f2f0b[m packae
+[33m977b69b[m readme
+[33m8edf50f[m add devconatiner files
+[33m973f3ac[m Initial commit
